@@ -1,0 +1,3 @@
+[submodule "submodules/NotITG-External-Net"]
+	path = submodules/NotITG-External-Net
+	url = https://github.com/YannPenven/NotITG-External-Net
